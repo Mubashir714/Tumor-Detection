@@ -1,4 +1,4 @@
-# Brain Tumor Detection with Deep Learning [Live Demo] (https://huggingface.co/spaces/MuhammadMubashir/NeuroAI_Tumor_Detection)
+# Brain Tumor Detection with Deep Learning [Live Demo](https://huggingface.co/spaces/MuhammadMubashir/NeuroAI_Tumor_Detection)
 
 A comprehensive deep learning project for automated brain tumor detection from MRI images using TensorFlow/Keras, featuring both custom CNN and transfer learning approaches with explainable AI visualization.
 
